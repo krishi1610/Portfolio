@@ -1,0 +1,81 @@
+{
+    "person": {
+        "role": "Bussiness Enthusiaist & Cyber Analyst "
+    },
+    "newsletter": {
+        "title": "Subscribe to {firstName}'s Newsletter",
+        "description": "I occasionally write about design, technology, and share thoughts on the intersection of creativity and engineering",
+        "button": "Sign up"
+    },
+    "home": {
+        "label": "Home",
+        "title": "{name}'s Portfolio",
+        "description": "Portfolio website showcasing my work as a {role}",
+        "headline": "Bussiness Enthusiaist & Cyber Analyst",
+        "subline": "I'm Kunal Kundanam, I'm a Bussiness Enthusiaist and have a good Experience in CyberSecurity where i've work on various network related projects and i've Developed a Firewall, I build my own projects."
+    },
+    "about": {
+        "label": "About",
+        "title": "About me",
+        "description": "Meet {name}, {role} from {location}",
+        "intro": {
+            "title": "Introduction",
+            "description": "I'm Kunal Kundanam, I'm a Bussiness Enthusiaist and have a good Experience in CyberSecurity where i've work on various network related projects and i've Developed a Firewall, I build my own projects."
+        },
+        "work": {
+            "title": "Work Experience",
+            "experiences": {
+                "FLY": {
+                    "timeframe": "2024 - 2025",
+                    "role": "Cybersecurity Network Engineer",
+                    "achievements": "I've Designed and Devoloped a network vulnerability tool which scans the whole networks and detect network Vulnerabilities and I've designed very own firewall which can be implemented on any devices ."
+                },
+                "Creativ3": {
+                    "timeframe": "2021 - 2023",
+                    "role": "Game Designer",
+                    "achievements": "Developed a design for an open world 3rd person Game where i've designed maps of the game."
+                }
+            }
+        },
+        "studies": {
+            "title": "Studies",
+            "institutions": {
+                "Sri Venkateshwara College of Engineering ": {
+                    "description": "Studied software engineering."
+                },
+                "Build the Future": {
+                    "description": "Studied 3d Game Devolopment."
+                }
+            }
+        },
+        "technical": {
+            "title": "Technical skills",
+            "skills": {
+                "Coding": {
+                    "description": "Ive a good knowledge in Python,Java,Full stack Devolopment and AI."
+                },
+                "Android Studio": {
+                    "description": "Building next gen apps Java + Once UI + Supabase."
+                }
+            }
+        }
+    },
+    "blog": {
+        "label": "Blog",
+        "title": "Writing about design and tech...",
+        "description": "Read what {name} has been up to recently"
+    },
+    "work": {
+        "label": "Work",
+        "title": "Network Vulnerability Testing Tool",
+        "description": "Designed a network Pen Testing Tool "
+    },
+    "gallery": {
+        "label": "Gallery",
+        "title": "My photo gallery",
+        "description": "A photo collection by {name}"
+    },
+    "projectCard": {
+        "label": "Read Case Study"
+    }
+}
